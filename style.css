@@ -21,12 +21,13 @@
 .legend{
     font-family: "Mukta", sans-serif;
     font-weight:900;
+    font-size:2rem;
     font-style: normal;   
     letter-spacing: 0.1rem; 
     margin-bottom: -30px;
 }
 .forgot-pass{
-    font-size: 12px;
+    font-size: 13px;
     display: block;
 }
 .forgot-pass:active{
