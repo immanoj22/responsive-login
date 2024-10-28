@@ -1,6 +1,6 @@
 .row{
     align-items: center;
-    height: 90vh;
+    height: 85vh;
     
 }
 .border{
@@ -27,7 +27,7 @@
     margin-bottom: -30px;
 }
 .forgot-pass{
-    font-size: 13px;
+    font-size: 15px;
     display: block;
 }
 .forgot-pass:active{
@@ -50,7 +50,7 @@
 }
 .details{
     
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     letter-spacing: 0.1rem;
 }
 .form-control{
