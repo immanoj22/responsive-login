@@ -1,0 +1,48 @@
+.row{
+    align-items: center;
+    height: 100vh;
+    
+}
+.border{
+    
+    border-radius: 5px;
+    box-shadow: 2px 2px 6px  hsla(0, 0%, 0%, 0.475);
+}
+.buttonclass{
+    display: flex;
+    justify-content: center;
+}
+.legend{
+    font-family: "Mukta", sans-serif;
+    font-weight:900;
+    font-style: normal;   
+    letter-spacing: 0.1rem; 
+    margin-bottom: -30px;
+}
+.forgot-pass{
+    font-size: 12px;
+    display: block;
+}
+.forgot-pass:active{
+    color: rgb(213, 8, 8);
+}
+.emailalert{
+    font-size: 12px;
+    display: block;
+    color: rgb(213, 8, 8);
+}
+.passalert{
+    font-size: 12px;
+    display: block;
+    color: rgb(213, 8, 8);
+}
+.login{
+    width: 100%;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.details{
+    margin-top: -80px;
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+}
